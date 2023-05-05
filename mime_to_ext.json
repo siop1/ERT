@@ -1,0 +1,17 @@
+{
+    "application/pdf": ".pdf",
+    "application/vnd.ms-excel": ".xls",
+    "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": ".xlsx",
+    "application/vnd.ms-powerpoint": ".ppt",
+    "application/vnd.openxmlformats-officedocument.presentationml.presentation": ".pptx",
+    "application/msword": ".doc",
+    "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ".docx",
+    "video/mp4":".mp4",
+    "image/jpeg":".jpeg",
+    "image/png":".png",
+    "audio/mpeg":".mp3",
+    "image/gif":".gif",
+    "text/html":".html"
+    
+    
+}
